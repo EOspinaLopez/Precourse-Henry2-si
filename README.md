@@ -1,2 +1,3 @@
 # Precourse-Henry2-si
-este es el repositorio a utilizar
+edwin ospina lopez
+este es el repositorio a utilizar y esta correcto, ya lo clonamos desde github al  PC
